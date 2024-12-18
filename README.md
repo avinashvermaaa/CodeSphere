@@ -1,5 +1,6 @@
 # CodeSphere
-An Online AI based Coding Website.
+https://avinashvermaaa.github.io/CodeSphere/
+
 ```
-Check it out live here :- https://avinashvermaaa.github.io/CodeSphere/
+An Online AI based Coding Website.
 ```
