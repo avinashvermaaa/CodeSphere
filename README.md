@@ -8,4 +8,4 @@ https://avinashvermaaa.github.io/CodeSphere/
 # How to Run :-
 * cd to server.js of cpp -> `(pages/cpp/backend)`
 * run `node server.js`
-* then open index.html in chrome or your browser.
+* then `open index.html` in chrome or your browser.
