@@ -1,3 +1,4 @@
+import { SpeedInsights } from "@vercel/speed-insights/next"
 function showCategory(category) {
   // Remove active class from all tabs
   document.querySelectorAll(".tab").forEach((tab) => {
